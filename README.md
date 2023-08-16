@@ -1,3 +1,5 @@
+# This is a local fork of the original SmartListing gem, with a patch for ruby 3 comptaibility
+
 # SmartListing
 
 SmartListing helps creating AJAX-enabled lists of ActiveRecord collections or arrays with pagination, filtering, sorting and in-place editing.
